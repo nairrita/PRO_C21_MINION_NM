@@ -1,2 +1,2 @@
-# PRO_C21_MINION_NM
-minion shape creation
+# p5.play-boilerplate
+Boiler plate for p5.play
